@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAppointement</string>
+    <string-array name="test">
+        <item>te</item>
+        <item>st</item>
+
+    </string-array>
+</resources>
